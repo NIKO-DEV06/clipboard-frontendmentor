@@ -1,3 +1,7 @@
+Live Site: https://clipboard-site-niko.netlify.app
+MADE WITH TAILWIND CSS
+
+
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
